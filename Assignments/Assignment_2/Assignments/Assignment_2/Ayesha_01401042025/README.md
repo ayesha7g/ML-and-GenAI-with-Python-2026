@@ -1,0 +1,5 @@
+Student Name: Ayesha
+
+Enrollment Number: 01401042025
+
+College Name: INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN
